@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "823429119636",
+    "firebase_url": "https://chatapp-408ed.firebaseio.com",
+    "project_id": "chatapp-408ed",
+    "storage_bucket": "chatapp-408ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823429119636:android:957b39a12ce150f1",
+        "android_client_info": {
+          "package_name": "com.apps.anant.mocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823429119636-u75ombmee2jt5miacl5kq7n5dmkvqc7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.anant.mocial",
+            "certificate_hash": "a3bca6b4d596ff4c5700198b4c3c5908a0b5e142"
+          }
+        },
+        {
+          "client_id": "823429119636-7t8jci93i9occ1qvij17t424hli5vte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQXszCIEzz0am-h0VSiaHd55rarDWX_N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823429119636-7t8jci93i9occ1qvij17t424hli5vte4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mocial</string>
+    <string name="BaseUrl">https://mocial.herokuapp.com/</string>
+    <string name="default_notification_channel_id">Primary Channel</string>
+</resources>
